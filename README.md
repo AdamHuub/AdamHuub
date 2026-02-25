@@ -1,7 +1,7 @@
-<!-- ================= CYBERPUNK HEADER ================= -->
+<!-- ================= MATRIX GREEN THEME ================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Access+Granted...;Hi+I'm+Adam+Huub;Full+Stack+Developer;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Welcome+to+the+Matrix...;Hi+I'm+Adam+Huub;Full+Stack+Developer;Computer+Science+Student" />
 </h1>
 
 <p align="center">
@@ -18,35 +18,41 @@
 Name: Adam Huub
 Role: Full Stack Developer
 Education: Computer Science Student
-Mission: Build cool, modern web apps
+Mission: Build modern web apps & learn new tech
 Status: Always Learning 🚀
 ```
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
+## 💻 Programming Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,python,cpp,c,java&theme=dark" />
 </p>
 
-### 🌐 Frontend Development
+---
+
+## 🌐 Frontend Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
 </p>
 
-### ⚙ Backend Development
+---
+
+## ⚙ Backend Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
-### 🗄 Databases
+---
+
+## 🗄 Databases
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
-### 🧰 Tools & Environment
+---
+
+## 🧰 Tools & Environment
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,figma,git,github&theme=dark" />
 </p>
@@ -56,8 +62,8 @@ Status: Always Learning 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamHuub&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamHuub&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamHuub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamHuub&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -65,15 +71,15 @@ Status: Always Learning 🚀
 ## 🔥 Activity Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdamHuub&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AdamHuub&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Execute!)
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdamHuub/AdamHuub/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/AdamHuub/AdamHuub/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -97,5 +103,5 @@ Status: Always Learning 🚀
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdamHuub&label=Profile%20Views&color=00FF41&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=AdamHuub&label=Profile%20Views&color=00FF41&style=flat"/>
 </p>
