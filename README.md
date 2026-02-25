@@ -1,14 +1,13 @@
-<!-- ================= MODERN CYBERPUNK GITHUB PROFILE ================= -->
+<!-- ================= MODERN DEVELOPER PORTFOLIO ================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=Welcome+to+the+Matrix...;Hi+I'm+AdamHuub;Full+Stack+Developer;CS+Student;Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=4CAF50&center=true&vCenter=true&width=800&lines=Hi+I'm+AdamHuub;Full+Stack+Developer;CS+Student" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=windows-terminal&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ROLE-FullStack_Dev-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDUCATION-CS_Student-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/INTERESTS-Cybersecurity-00FF41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROLE-FullStack_Dev-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDUCATION-CS_Student-4CAF50?style=for-the-badge"/>
 </p>
 
 ---
@@ -16,7 +15,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mysql,vscode,git,github,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mysql,vscode,git,github,tailwind,bootstrap&theme=light" />
 </p>
 
 ---
@@ -24,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamHuub&show_icons=true&theme=radical&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamHuub&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamHuub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamHuub&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -33,7 +32,7 @@
 ## 🔥 Activity Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AdamHuub&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AdamHuub&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -63,5 +62,5 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AdamHuub&label=Profile%20Views&color=00FF41&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=AdamHuub&label=Profile%20Views&color=4CAF50&style=flat"/>
 </p>
