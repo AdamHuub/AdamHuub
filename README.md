@@ -1,6 +1,3 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  🌌  AdamHuub — Ultra Modern GitHub Profile                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ===== ANIMATED WAVE HEADER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a3a2a,30:0f5132,50:00875A,70:00C9A7,85:00E5FF,100:0D1117&height=260&section=header&text=Adam%20Huub&fontSize=80&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast%20%E2%80%A2%20CS%20Student&descSize=17&descColor=ffffffcc&descAlignY=52&animation=twinkling&fontAlign=50" width="100%" />
@@ -13,7 +10,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+Building+Secure+%26+Scalable+Systems;%F0%9F%94%90+Cybersecurity+%7C+Ethical+Hacking+%7C+Defense;%F0%9F%92%BB+React+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+Full+Stack;%F0%9F%9A%80+From+Zero+to+Production+%E2%80%94+Always+Shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%E2%9A%A1+Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,27 +43,27 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="32"> &nbsp;About Me
 
 ```bash
-adamhuub@kali:~$ whoami
-> Adam Huub — Full Stack Developer
+adamhub@kali:~$ whoami
+> Adam Djini — Full Stack Developer
 
-adamhuub@kali:~$ cat education.txt
+adamhub@kali:~$ cat education.txt
 > 🎓 Computer Science Student @ USTHB
 
-adamhuub@kali:~$ cat skills.txt
+adamhub@kali:~$ cat skills.txt
 > 🌍 Full Stack Web Developer (Frontend + Backend)
 > 🛡️ Cybersecurity Enthusiast & Ethical Hacking
 > 🔐 Secure Architecture & Backend Systems
 
-adamhuub@kali:~$ cat current_focus.txt
-> 📚 Advanced React | Node.js | Ethical Hacking
+adamhub@kali:~$ cat current_focus.txt
+> 📚 Backend | Ethical Hacking
 
-adamhuub@kali:~$ cat mission.txt
+adamhub@kali:~$ cat mission.txt
 > 🚀 Build secure, scalable, production-level apps
 
-adamhuub@kali:~$ cat contact.txt
+adamhub@kali:~$ cat contact.txt
 > 📬 AdamDev667@outlook.com
 
-adamhuub@kali:~$ echo "I break things to understand how they work 🔧"
+adamhub@kali:~$ echo "I break things to understand how they work 🔧"
 ```
 
 <br clear="both">
@@ -120,31 +117,49 @@ adamhuub@kali:~$ echo "I break things to understand how they work 🔧"
 
 <br>
 
-### 🎨 Frontend Development
+### 💻 Languages & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,js,ts,python,html,css&theme=dark" />
+</a>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </a>
 
 <br><br>
 
-### ⚙️ Backend & Databases
+### 🎨 Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui&theme=dark" />
 </a>
+<br>
+<img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <br><br>
 
-### 🔐 Cybersecurity & DevOps
+### ⚙️ Backend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,bash,kali,docker,nginx,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm&theme=dark" />
 </a>
 
 <br><br>
 
 ### 🧰 Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,postman,github,figma&theme=dark" />
 </a>
+<br>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+<br><br>
+
+### 🔐 Cybersecurity
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" />
+</a>
+<br>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
 
 <br><br>
 
@@ -254,7 +269,7 @@ adamhuub@kali:~$ echo "I break things to understand how they work 🔧"
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=2000&color=00C9A7&center=true&vCenter=true&repeat=true&width=800&height=80&lines=%F0%9F%8E%AF+2026+Mission%3A+Secure+Code.+Scalable+Systems.+Relentless+Progress.;%F0%9F%94%A5+Never+stop+learning%2C+never+stop+building.;%F0%9F%9B%A1%EF%B8%8F+Hack+to+protect%2C+code+to+create." alt="Mission" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=2000&color=00C9A7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%F0%9F%9B%A1%EF%B8%8F+Hack+to+protect%2C+code+to+create." alt="Mission" />
 
   <br><br>
 
@@ -288,17 +303,6 @@ adamhuub@kali:~$ echo "I break things to understand how they work 🔧"
 <!-- ===== ANIMATED WAVE FOOTER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a3a2a,30:0f5132,50:00875A,70:00C9A7,85:00E5FF,100:0D1117&height=130&section=footer&animation=twinkling" width="100%" />
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  🐍 SNAKE ANIMATION SETUP — GitHub Actions Workflow                ║ -->
-<!-- ╠══════════════════════════════════════════════════════════════════════╣ -->
-<!-- ║                                                                    ║ -->
-<!-- ║  1. Create a repo named "AdamHuub" (same as your username)         ║ -->
-<!-- ║  2. Create file: .github/workflows/snake.yml                       ║ -->
-<!-- ║  3. Paste the YAML below into that file                            ║ -->
-<!-- ║  4. Go to Actions tab → Run "Generate Snake" workflow              ║ -->
-<!-- ║  5. Snake SVGs appear in the `output` branch                       ║ -->
-<!-- ║                                                                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <!--
 name: Generate Snake Animation
