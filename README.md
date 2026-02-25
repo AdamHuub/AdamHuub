@@ -138,7 +138,7 @@ const adamHuub = {
         <h3>⚙️ Backend Power</h3>
         <br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mysql,mongodb&theme=dark&perline=3" />
+          <img src="https://skillicons.dev/icons?i=python,nextjs,mysql,mongodb&theme=dark&perline=2" />
         </a>
       </td>
     </tr>
@@ -147,8 +147,12 @@ const adamHuub = {
         <h3>🔐 Security Arsenal</h3>
         <br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,bash,kali,docker,nginx,cloudflare&theme=dark&perline=3" />
+          <img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark&perline=3" />
         </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/Packet%20Tracer-003B57?style=for-the-badge&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
       </td>
       <td align="center" width="50%">
         <h3>🧰 Dev Tools</h3>
@@ -340,4 +344,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
-
