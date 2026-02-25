@@ -1,6 +1,6 @@
 
 <!-- ===== ANIMATED WAVE HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a3a2a,30:0f5132,50:00875A,70:00C9A7,85:00E5FF,100:0D1117&height=260&section=header&text=Adam%20Huub&fontSize=80&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast%20%E2%80%A2%20CS%20Student&descSize=17&descColor=ffffffcc&descAlignY=52&animation=twinkling&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a3a2a,30:0f5132,50:00875A,70:00C9A7,85:00E5FF,100:0D1117&height=260&section=header&text=Adam%20Djini&fontSize=80&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast%20%E2%80%A2%20CS%20Student&descSize=17&descColor=ffffffcc&descAlignY=52&animation=twinkling&fontAlign=50" width="100%" />
 
 <!-- ===== ANIMATED CODING BANNER ===== -->
 <div align="center">
