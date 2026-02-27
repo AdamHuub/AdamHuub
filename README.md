@@ -44,7 +44,7 @@
 
 ```bash
 adamhub@kali:~$ whoami
-> Adam Djini — Full Stack Developer
+> Adam Djini 
 
 adamhub@kali:~$ cat education.txt
 > 🎓 Computer Science Student @ USTHB
